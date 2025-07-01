@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Rashmi K  
+🔐 ISC2 Certified in Cybersecurity (CC) | 📊 Business & Cyber Analyst | MBA - ITBM @ SCIT Pune
 
-<!--
-**Rashmi-Koujalgi/Rashmi-Koujalgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🎓 Currently pursuing MBA in IT Business Management (2024–26)
+- 🛡️ Passionate about cybersecurity, GRC, and analytics
+- 📈 Built dashboards using Zoho Analytics, Power BI
+- 📝 Published research on CNN-based crop disease detection
+- 🤖 Exploring AI automation and risk assessment frameworks
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- **Cybersecurity**: NIST CSF, ISO 27001, SOC 2, Risk Assessment, ITGC
+- **Analytics**: Zoho Analytics, Power BI, SQL, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔒 [NIST CSF Maturity Dashboard](#) *(link to your repo)*
+- 📊 [Admissions Funnel Automation – Zoho](#)
+- ✅ [ITGC Audit Checklist](#)
+
+## 📜 Certifications
+- ISC2 Certified in Cybersecurity (CC)
+- German Level 1 – Swayam, IIT Madras
