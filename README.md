@@ -13,7 +13,7 @@
 - **Analytics**: Zoho Analytics, Power BI, SQL, Excel
 
 ## 📂 Projects
-- 🔒 [NIST CSF Maturity Dashboard](#) *(link to your repo)*
+- 🔒 [NIST CSF Maturity Dashboard](#)
 - 📊 [Admissions Funnel Automation – Zoho](#)
 - ✅ [ITGC Audit Checklist](#)
 
