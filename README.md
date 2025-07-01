@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rashmi K  
+# 👋 Hi, I'm Rashmi Koujalgi
 🔐 ISC2 Certified in Cybersecurity (CC) | 📊 Business & Cyber Analyst | MBA - ITBM @ SCIT Pune
 
 ## 🌟 About Me
